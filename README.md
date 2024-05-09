@@ -1,1 +1,2 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YmApcLfC)
+In this GitHub repository I have placed all the files used to complete the assignments, including the QGIS and Rhino source files, the CSV files of the various types of dataset, and the code used. The code section includes Arduino, VVVV, Python, and Grasshopper battery packs. The Skill3 section also includes a recording of the patch.
